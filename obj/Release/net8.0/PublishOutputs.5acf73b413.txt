@@ -1,0 +1,13 @@
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.exe
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\appsettings.Development.json
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\appsettings.json
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.deps.json
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.runtimeconfig.json
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\Projeto_Web-Lh_Pets_Alunos.pdb
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\System.Data.SqlClient.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-arm64\native\sni.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-x64\native\sni.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win-x86\native\sni.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\projetos\SENAI\Projeto_Web-Lh_Pets_Alunos\bin\Release\net8.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
